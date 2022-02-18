@@ -3,9 +3,14 @@
 ### Estes 3 projetos foram elaborado por Nikolas Caldeira
 
 Para acessar o enunciado do desafio de programação da Academia CAPGEMINI acesse o link: https://github.com/NikolasCaldeira/DESAFIO-DE-PROGRAMACAO-ACADEMIA-CAPGEMINI/blob/main/Desafio%20de%20programa%C3%A7%C3%A3o.docx.pdf
+---
 
 ## ATENÇÃO! 
-## PARA PODER RODAR CADA UM DOS PROJETOS SERÁ NECESSÁRIO TER INSTALADO EM SUA MÁQUINA O JKD https://www.oracle.com/java/technologies/downloads/ OU JRE https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+### PARA PODER RODAR CADA UM DOS PROJETOS SERÁ NECESSÁRIO TER INSTALADO EM SUA MÁQUINA:
+### JKD https://www.oracle.com/java/technologies/downloads/ 
+### OU
+### JRE https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+---
 
 ## Para execução de cada projeto siga os seguintes passos:
 1 - Faça o download do repositório zipado, após o download localize o arquivo zipado no qual foi efetuado o download clique com o botão direito E DESCOMPACTE A PASTA.
@@ -21,5 +26,6 @@ APÓS DIGITAR O COMANDO O PROJETO SERÁ INICIADO.
 5 - PARA EXECUTAR O PROJETO anagrama, ABRA A PASTA anagrama, DENTRO DELA HAVERÁ UMA PASTA CHAMADA src, ABRA PASTA src, DENTRO DA PASTA SEGURE Shift E CLIQUE COM O BOTÃO DIREITO DO MOUSE, APÓS ISSO CLIQUE EM "Abrir janela do PowerShell aqui" E ASSIM QUE ABRIR A JANELA DO PowerShell ESCREVA O SEGUINTE COMANDO: java Main
 APÓS DIGITAR O COMANDO O PROJETO SERÁ INICIADO NO PowerShell.
 
+### OBS: caso tenha ficado alguma dúvida, acesse o link do vídeo para acompanhar os passos para executar cada projeto, e não se esqueça de segurar Shift e clicar com o botão direito do mouse para abrir a opção de abrir o PowerShell. - Link do vídeo: https://youtu.be/KpY7Fab7Q_o
 
 
